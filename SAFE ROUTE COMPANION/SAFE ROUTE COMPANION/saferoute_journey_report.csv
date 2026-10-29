@@ -1,0 +1,4 @@
+Journey_ID,User_Name,Starting_Location,Destination,Expected_Arrival,Journey_Status,Scheduled_Check_In,Check_In_Status
+3,Adithi,Madurai,Chennai,18:00,In Progress,19:30,Completed
+2,Adithi,Gummidipoondi,Siruseri,10:30,In Progress,20:00,Completed
+1,Adithi,"Perungudi, Chennai","T Nagar, Chennai",6:00 PM,In Progress,17:30,Completed
